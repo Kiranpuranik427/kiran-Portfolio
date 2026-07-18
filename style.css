@@ -92,7 +92,7 @@ a {
 }
 
 .hero-media {
-  background: url("assets/portfolio_background.jpeg") center / cover no-repeat;
+  background: url("portfolio_background.jpeg") center / cover no-repeat;
   transform: scale(1.02);
 }
 
